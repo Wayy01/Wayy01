@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I’m Wayy 👋
+### Developer for fun
 
-<!--
-**Wayy01/Wayy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I’m a hobby developer who enjoys building and experimenting with code.
 
-Here are some ideas to get you started:
+## 🧰 Tech stack
+- TypeScript · JavaScript · Go
+- Docker & tooling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Featured repositories
+- [Notes-app-react-NOT-Finished](https://github.com/Wayy01/Notes-app-react-NOT-Finished)
+- [Roslin-redesign-ui](https://github.com/Wayy01/Roslin-redesign-ui)
+- [docker-manager](https://github.com/Wayy01/docker-manager)
+- [Vibe-Coded-Altnet](https://github.com/Wayy01/Vibe-Coded-Altnet)
+- [Libre-translate-open-source](https://github.com/Wayy01/Libre-translate-open-source)
+- [lan-ruso](https://github.com/Wayy01/lan-ruso)
+
+## 📊 GitHub stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Wayy01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayy01&layout=compact&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wayy01&theme=radical)
+
+## 🤝 Connect
+- Instagram: [@ion191_](https://www.instagram.com/ion191_/)
+
+## ⚡ Fun fact
+I debug, therefore I am 😄

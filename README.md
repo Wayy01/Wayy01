@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="./profile/stats.svg"><img src="./profile/stats.svg" alt="GitHub stats" width="53%" /></a>
-  <a href="./profile/top-langs.svg"><img src="./profile/top-langs.svg" alt="Top languages" width="43%" /></a>
+  <a href="./profile/top-langs.svg"><img src="./profile/top-langs.svg" alt="Top languages" width="52%" /></a>
 </p>
 
 ---

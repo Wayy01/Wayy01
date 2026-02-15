@@ -1,6 +1,5 @@
 # Hi there, I’m Wayy 👋
 ### Developer for fun
-
 Welcome! I’m a hobby developer who enjoys building and experimenting with code.
 
 ## 🧰 Tech stack
@@ -16,8 +15,8 @@ Welcome! I’m a hobby developer who enjoys building and experimenting with code
 - [lan-ruso](https://github.com/Wayy01/lan-ruso)
 
 ## 📊 GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Wayy01&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wayy01&layout=compact&theme=radical)
+![Wayy01 GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Wayy01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Wayy01&layout=compact&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wayy01&theme=radical)
 
 ## 🤝 Connect

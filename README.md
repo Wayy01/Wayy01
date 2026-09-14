@@ -23,20 +23,7 @@ I'm a passionate developer who loves building amazing projects and exploring cut
       ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
       ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-      ---
-
-      ## Featured Projects
-
-      | Project | Description | Tech Stack |
-      |---------|-------------|-----------|
-      | Notes App | A modern note-taking application | React, TypeScript |
-      | Roslin | Beautiful UI redesign | React, Tailwind |
-      | Docker Manager | Simplified Docker management tool | Go, Docker |
-      | Vibe | Coded Altnet community coding platform | TypeScript, Node |
-      | Libre Translate | Open-source translation tool | JavaScript |
-      | Lan Ruso | Language learning platform | React, Go |
-
-      ---
+      
 
       ## Let's Connect
 

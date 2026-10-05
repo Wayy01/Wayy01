@@ -16,7 +16,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=blueberry
+          options: username=${{ github.repository_owner }}&layout=compact&bg_color=0d0d0d&title_color=cae9ff&text_color=e5e5e5&border_color=262626
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit card

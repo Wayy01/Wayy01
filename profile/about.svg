@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">About Wayy</title>
+<desc id="desc">An animated terminal session: whoami prints Wayy, founder of Just Dashboard and full-stack developer; the stack is TypeScript, JavaScript, Go, React, Next.js, Docker, Linux and PostgreSQL; currently building Just Dashboard at just-dashboard.com; motto: I debug, therefore I am.</desc>
+<style>
+
+.mono { font-family: ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace; }
+.sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Ubuntu, Arial, sans-serif; }
+.blink { animation: blink 1s step-end infinite; }
+@keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+.pulse { animation: pulse 2.4s ease-in-out infinite; }
+@keyframes pulse { 0%,100% { opacity: .45; } 50% { opacity: 1; } }
+
+@keyframes l0 { 0% { opacity: 0; animation-timing-function: step-end; } 2.941% { opacity: 1; } 94.118% { opacity: 1; } 97.059% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes c0 { 0% { transform: translateX(0px); } 5.000% { transform: translateX(0px); animation-timing-function: steps(6, end); } 7.647% { transform: translateX(64.8px); } 97.647% { transform: translateX(64.8px); animation-timing-function: step-end; } 100% { transform: translateX(0px); } }
+@keyframes k0 { 0% { opacity: 0; animation-timing-function: step-end; } 2.941% { opacity: 1; animation-timing-function: step-end; } 9.412% { opacity: 0; animation-timing-function: step-end; } 100% { opacity: 0; } }
+.l0 { animation: l0 17.0s linear infinite; } .c0 { animation: c0 17.0s linear infinite; } .k0 { animation: k0 17.0s infinite; }
+@keyframes o1 { 0% { opacity: 0; transform: translateY(6px); } 10.294% { opacity: 0; transform: translateY(6px); animation-timing-function: cubic-bezier(.2,.7,.2,1); } 12.353% { opacity: 1; transform: translateY(0px); } 94.118% { opacity: 1; transform: translateY(0px); } 97.059% { opacity: 0; transform: translateY(0px); } 100% { opacity: 0; transform: translateY(6px); } }
+.o1 { animation: o1 17.0s linear infinite; }
+@keyframes l2 { 0% { opacity: 0; animation-timing-function: step-end; } 13.235% { opacity: 1; } 94.118% { opacity: 1; } 97.059% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes c2 { 0% { transform: translateX(0px); } 15.294% { transform: translateX(0px); animation-timing-function: steps(13, end); } 21.029% { transform: translateX(140.4px); } 97.647% { transform: translateX(140.4px); animation-timing-function: step-end; } 100% { transform: translateX(0px); } }
+@keyframes k2 { 0% { opacity: 0; animation-timing-function: step-end; } 13.235% { opacity: 1; animation-timing-function: step-end; } 22.794% { opacity: 0; animation-timing-function: step-end; } 100% { opacity: 0; } }
+.l2 { animation: l2 17.0s linear infinite; } .c2 { animation: c2 17.0s linear infinite; } .k2 { animation: k2 17.0s infinite; }
+@keyframes o3 { 0% { opacity: 0; transform: translateY(6px); } 23.676% { opacity: 0; transform: translateY(6px); animation-timing-function: cubic-bezier(.2,.7,.2,1); } 25.735% { opacity: 1; transform: translateY(0px); } 94.118% { opacity: 1; transform: translateY(0px); } 97.059% { opacity: 0; transform: translateY(0px); } 100% { opacity: 0; transform: translateY(6px); } }
+.o3 { animation: o3 17.0s linear infinite; }
+@keyframes l4 { 0% { opacity: 0; animation-timing-function: step-end; } 26.618% { opacity: 1; } 94.118% { opacity: 1; } 97.059% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes c4 { 0% { transform: translateX(0px); } 28.676% { transform: translateX(0px); animation-timing-function: steps(16, end); } 35.735% { transform: translateX(172.8px); } 97.647% { transform: translateX(172.8px); animation-timing-function: step-end; } 100% { transform: translateX(0px); } }
+@keyframes k4 { 0% { opacity: 0; animation-timing-function: step-end; } 26.618% { opacity: 1; animation-timing-function: step-end; } 37.500% { opacity: 0; animation-timing-function: step-end; } 100% { opacity: 0; } }
+.l4 { animation: l4 17.0s linear infinite; } .c4 { animation: c4 17.0s linear infinite; } .k4 { animation: k4 17.0s infinite; }
+@keyframes o5 { 0% { opacity: 0; transform: translateY(6px); } 38.382% { opacity: 0; transform: translateY(6px); animation-timing-function: cubic-bezier(.2,.7,.2,1); } 40.441% { opacity: 1; transform: translateY(0px); } 94.118% { opacity: 1; transform: translateY(0px); } 97.059% { opacity: 0; transform: translateY(0px); } 100% { opacity: 0; transform: translateY(6px); } }
+.o5 { animation: o5 17.0s linear infinite; }
+@keyframes o6 { 0% { opacity: 0; transform: translateY(6px); } 40.441% { opacity: 0; transform: translateY(6px); animation-timing-function: cubic-bezier(.2,.7,.2,1); } 42.500% { opacity: 1; transform: translateY(0px); } 94.118% { opacity: 1; transform: translateY(0px); } 97.059% { opacity: 0; transform: translateY(0px); } 100% { opacity: 0; transform: translateY(6px); } }
+.o6 { animation: o6 17.0s linear infinite; }
+@keyframes l7 { 0% { opacity: 0; animation-timing-function: step-end; } 43.382% { opacity: 1; } 94.118% { opacity: 1; } 97.059% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes c7 { 0% { transform: translateX(0px); } 45.441% { transform: translateX(0px); animation-timing-function: steps(11, end); } 50.294% { transform: translateX(118.8px); } 97.647% { transform: translateX(118.8px); animation-timing-function: step-end; } 100% { transform: translateX(0px); } }
+@keyframes k7 { 0% { opacity: 0; animation-timing-function: step-end; } 43.382% { opacity: 1; animation-timing-function: step-end; } 52.059% { opacity: 0; animation-timing-function: step-end; } 100% { opacity: 0; } }
+.l7 { animation: l7 17.0s linear infinite; } .c7 { animation: c7 17.0s linear infinite; } .k7 { animation: k7 17.0s infinite; }
+@keyframes o8 { 0% { opacity: 0; transform: translateY(6px); } 52.941% { opacity: 0; transform: translateY(6px); animation-timing-function: cubic-bezier(.2,.7,.2,1); } 55.000% { opacity: 1; transform: translateY(0px); } 94.118% { opacity: 1; transform: translateY(0px); } 97.059% { opacity: 0; transform: translateY(0px); } 100% { opacity: 0; transform: translateY(6px); } }
+.o8 { animation: o8 17.0s linear infinite; }
+@keyframes l9 { 0% { opacity: 0; animation-timing-function: step-end; } 56.471% { opacity: 1; } 94.118% { opacity: 1; } 97.059% { opacity: 0; } 100% { opacity: 0; } }
+.l9 { animation: l9 17.0s linear infinite; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } .cover, .cur { display: none; } }
+</style>
+<defs>
+  <clipPath id="win"><rect x="1" y="1" width="1198" height="438" rx="18"/></clipPath>
+</defs>
+<rect x="1" y="1" width="1198" height="438" rx="18" fill="#0d0d0d"/>
+<g clip-path="url(#win)">
+  <rect x="0" y="0" width="1200" height="48" fill="#161616"/>
+  <line x1="0" y1="48.5" x2="1200" y2="48.5" stroke="#262626"/>
+</g>
+<circle cx="30" cy="24" r="7" fill="#ff5f57"/><circle cx="54" cy="24" r="7" fill="#febc2e"/><circle cx="78" cy="24" r="7" fill="#28c840"/>
+<text class="mono" x="600.0" y="29" font-size="14" fill="#a1a1aa" text-anchor="middle">wayy@just-dashboard: ~ — zsh</text>
+<rect x="1" y="1" width="1198" height="438" rx="18" stroke="#262626" stroke-width="2"/>
+<g class="l0">
+  <text class="mono" x="44" y="104" font-size="18" textLength="237.6" lengthAdjust="spacing"><tspan fill="#10b981" font-weight="700">wayy</tspan><tspan fill="#a1a1aa">@</tspan><tspan fill="#65a5ff">just-dashboard</tspan><tspan fill="#a1a1aa">:</tspan><tspan fill="#8b5cf6">~</tspan><tspan fill="#a1a1aa">$</tspan></text>
+  <text class="mono" x="292.4" y="104" font-size="18" fill="#fafafa" textLength="64.8" lengthAdjust="spacing">whoami</text>
+  <g class="c0"><rect class="cover" x="292.4" y="82" width="78.8" height="30" fill="#0d0d0d"/><g class="k0 cur"><rect class="blink" x="292.4" y="87" width="10.8" height="22" fill="#cae9ff" fill-opacity=".85"/></g></g>
+</g>
+<g class="o1"><text class="mono" x="44" y="136" font-size="18" textLength="583.2" lengthAdjust="spacing"><tspan fill="#fafafa" font-weight="700">Wayy</tspan><tspan fill="#a1a1aa"> — founder of </tspan><tspan fill="#cae9ff" font-weight="700">Just Dashboard</tspan><tspan fill="#a1a1aa">, full-stack developer</tspan></text></g>
+<g class="l2">
+  <text class="mono" x="44" y="168" font-size="18" textLength="237.6" lengthAdjust="spacing"><tspan fill="#10b981" font-weight="700">wayy</tspan><tspan fill="#a1a1aa">@</tspan><tspan fill="#65a5ff">just-dashboard</tspan><tspan fill="#a1a1aa">:</tspan><tspan fill="#8b5cf6">~</tspan><tspan fill="#a1a1aa">$</tspan></text>
+  <text class="mono" x="292.4" y="168" font-size="18" fill="#fafafa" textLength="140.4" lengthAdjust="spacing">cat stack.txt</text>
+  <g class="c2"><rect class="cover" x="292.4" y="146" width="154.4" height="30" fill="#0d0d0d"/><g class="k2 cur"><rect class="blink" x="292.4" y="151" width="10.8" height="22" fill="#cae9ff" fill-opacity=".85"/></g></g>
+</g>
+<g class="o3"><text class="mono" x="44" y="200" font-size="18" textLength="745.2" lengthAdjust="spacing"><tspan fill="#65a5ff">TypeScript</tspan><tspan fill="#efad2e">  JavaScript</tspan><tspan fill="#cae9ff">  Go</tspan><tspan fill="#65a5ff">  React</tspan><tspan fill="#fafafa">  Next.js</tspan><tspan fill="#65a5ff">  Docker</tspan><tspan fill="#efad2e">  Linux</tspan><tspan fill="#8b5cf6">  PostgreSQL</tspan></text></g>
+<g class="l4">
+  <text class="mono" x="44" y="232" font-size="18" textLength="237.6" lengthAdjust="spacing"><tspan fill="#10b981" font-weight="700">wayy</tspan><tspan fill="#a1a1aa">@</tspan><tspan fill="#65a5ff">just-dashboard</tspan><tspan fill="#a1a1aa">:</tspan><tspan fill="#8b5cf6">~</tspan><tspan fill="#a1a1aa">$</tspan></text>
+  <text class="mono" x="292.4" y="232" font-size="18" fill="#fafafa" textLength="172.8" lengthAdjust="spacing">./now --building</text>
+  <g class="c4"><rect class="cover" x="292.4" y="210" width="186.8" height="30" fill="#0d0d0d"/><g class="k4 cur"><rect class="blink" x="292.4" y="215" width="10.8" height="22" fill="#cae9ff" fill-opacity=".85"/></g></g>
+</g>
+<g class="o5"><text class="mono" x="44" y="264" font-size="18" textLength="648.0" lengthAdjust="spacing"><tspan fill="#10b981" font-weight="700">▸ </tspan><tspan fill="#cae9ff" font-weight="700">Just Dashboard</tspan><tspan fill="#a1a1aa"> — one authenticated UI for one Linux server</tspan></text></g>
+<g class="o6"><text class="mono" x="44" y="296" font-size="18" textLength="302.4" lengthAdjust="spacing"><tspan fill="#10b981" font-weight="700">▸ </tspan><tspan fill="#65a5ff">https://just-dashboard.com</tspan></text></g>
+<g class="l7">
+  <text class="mono" x="44" y="328" font-size="18" textLength="237.6" lengthAdjust="spacing"><tspan fill="#10b981" font-weight="700">wayy</tspan><tspan fill="#a1a1aa">@</tspan><tspan fill="#65a5ff">just-dashboard</tspan><tspan fill="#a1a1aa">:</tspan><tspan fill="#8b5cf6">~</tspan><tspan fill="#a1a1aa">$</tspan></text>
+  <text class="mono" x="292.4" y="328" font-size="18" fill="#fafafa" textLength="118.8" lengthAdjust="spacing">echo $MOTTO</text>
+  <g class="c7"><rect class="cover" x="292.4" y="306" width="132.8" height="30" fill="#0d0d0d"/><g class="k7 cur"><rect class="blink" x="292.4" y="311" width="10.8" height="22" fill="#cae9ff" fill-opacity=".85"/></g></g>
+</g>
+<g class="o8"><text class="mono" x="44" y="360" font-size="18" textLength="291.6" lengthAdjust="spacing"><tspan fill="#fafafa">I debug, therefore I am. </tspan><tspan fill="#e95ab4" font-weight="700">;)</tspan></text></g>
+<g class="l9">
+  <text class="mono" x="44" y="392" font-size="18" textLength="237.6" lengthAdjust="spacing"><tspan fill="#10b981" font-weight="700">wayy</tspan><tspan fill="#a1a1aa">@</tspan><tspan fill="#65a5ff">just-dashboard</tspan><tspan fill="#a1a1aa">:</tspan><tspan fill="#8b5cf6">~</tspan><tspan fill="#a1a1aa">$</tspan></text>
+  <rect class="blink" x="292.4" y="375" width="10.8" height="22" fill="#cae9ff" fill-opacity=".85"/>
+</g>
+
+</svg>
